@@ -1,2 +1,2 @@
-# 30_day_chart_challenge
+# 30 Day Chart Challenge
 Repo for the #30DayChartChallenge
