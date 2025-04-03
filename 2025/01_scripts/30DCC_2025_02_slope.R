@@ -88,4 +88,4 @@ penguins |>
     caption = "\n#30DayChartChallenge 2025 - 02 - Slope", 
     fontsize = 80, family = "Ubuntu", face = "italic") |> 
   # save plot
-  save_plot("2025/02_plots/30DCC_2025_01_slope.png")
+  save_plot("2025/02_plots/30DCC_2025_02_slope.png")
